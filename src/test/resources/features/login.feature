@@ -1,5 +1,5 @@
 #language: es
-@loginfeature
+@login_feature
 Característica: Login
   Como usuario registrado de Carga Sin Estrés
   Quiero iniciar sesión en mi cuenta
